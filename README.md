@@ -22,8 +22,8 @@ cd wordlistgen
 
 ## Usage
 1. Run the Python script using the following command:(replace location by the myword.py location )
-```bsh
-/bin/python location
+```bash
+python location
 ```
 
 2. Follow the on-screen prompts to specify the desired parameters:
